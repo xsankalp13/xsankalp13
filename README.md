@@ -15,15 +15,15 @@
 
 - 📫 How to reach me **sankalpbsalve@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ow76HoErdEDPIS9A1qJ6pZvkiI8TkAu9/view?usp=share_link](https://drive.google.com/file/d/1Ow76HoErdEDPIS9A1qJ6pZvkiI8TkAu9/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/1Ow76HoErdEDPIS9A1qJ6pZvkiI8TkAu9/view?usp=share_link](https://drive.google.com/file/d/1Ow76HoErdEDPIS9A1qJ6pZvkiI8TkAu9/view?usp=share_link)
 
 - ⚡ Fun fact **I am a Gamer(Let's play BGMI)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xsankalp13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xsankalp13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xsankalp13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xsankalp13" height="30" width="40" /></a>
-<a href="https://instagram.com/xsankalp_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xsankalp_13" height="30" width="40" /></a>
+<a href="https://twitter.com/Sankalpsalve3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xsankalp13" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sankalp13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xsankalp13" height="30" width="40" /></a>
+<a href="https://www.instagram.com/xsankalp_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xsankalp_13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
