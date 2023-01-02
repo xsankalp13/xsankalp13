@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sankalp Salve</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" height="20%" width="30%" src="https://giffiles.alphacoders.com/140/14018.gif"/>
+<img align="right" alt="Coding" height="20%" width="300" src="https://giffiles.alphacoders.com/140/14018.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsankalp13&label=Profile%20views&color=0e75b6&style=flat" alt="xsankalp13" /> </p>
 
