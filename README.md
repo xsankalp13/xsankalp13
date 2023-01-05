@@ -17,7 +17,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1Ow76HoErdEDPIS9A1qJ6pZvkiI8TkAu9/view?usp=share_link](https://drive.google.com/file/d/1Ow76HoErdEDPIS9A1qJ6pZvkiI8TkAu9/view?usp=share_link)
 
-- ⚡ Fun fact **I am a Gamer(Let's play BGMI)**
+- ⚡ Fun fact **I am a Gamer(Let's Play BGMI)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
